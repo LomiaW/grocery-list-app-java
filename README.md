@@ -1,5 +1,5 @@
 # grocery-list-app-java
-a simple Java desktop app
+a simple Java desktop app built GUI with FXML
 
 
 
